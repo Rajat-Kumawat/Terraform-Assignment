@@ -2,7 +2,7 @@
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
-
 *.pem
-
 crash.log
+*.tfvars
+.docker/
